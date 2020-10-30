@@ -1,0 +1,31 @@
+# Microcontroller	ATmega32U4
+
+CPU	8-Bit
+
+Digital I/O Pins :	24
+
+PWM Output :	7
+
+Analog Input :	12
+
+Flash Memory - (Program Memory)	32 KB
+
+SRAM - 2.5/KB
+
+EEPROM	- 1/KB
+
+Input Voltage	7-12/V
+
+Operating Voltage	- 5/V
+
+Oscillator - up to 16/MHz
+
+Software Used	Arduino Software (IDE)
+-----------------------------------------------
+Reset Button : Yes
+
+ICSP Header :	Yes
+
+USB Port :	1
+
+UART (Serial Communication)	Yes
