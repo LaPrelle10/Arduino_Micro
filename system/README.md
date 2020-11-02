@@ -1,5 +1,5 @@
 # Micro System 
-----------------------------------------------------------------------------------------------------------------------------
+---------------------------------------------------------------------------------------------------------------------------
 : Author: laprelle10
 : Email: { mlaprelle4@gmail.com
   AuthorEmail
@@ -8,16 +8,18 @@
 : Revision: version# 0.1.1
 : License: Public Domain
 
-= Project: {
+= Project: { Micro_Arduino 
   Project
 }
--------------------------------------------------------------------------------------------------------------------------------
-Describe your project : Porject is for Arduino 
+---------------------------------------------------------------------------------------------------------------------------
+Describe your project : Porject is for Micro_Arduino  
 
-== Step 1: Installation :
-Please describe the steps to install this project.
-
-For example:
+= Step 1: Installation :
+1. Have Arduino system in your device laptop via cell phone which ever device you plan on using.
+2. Create an account
+3. Login into account 
+4. Follow login steps 
+For example: email and password for account
 
 == Step 2: Assemble the circuit
 -----------------------------------------------------------------------------------------------------
@@ -30,7 +32,7 @@ Upload the code contained in this sketch on to your board
 == = Folder structure
 
      ....
-     sketch123                => Arduino sketch folder
+     sketch123               => Arduino sketch folder
      ├── sketch123.ino       => main Arduino file
      ├── schematics.png      => (optional) an image of the required schematics
      ├── layout.png          => (optional) an image of the layout
@@ -48,11 +50,11 @@ Upload the code contained in this sketch on to your board
                == = BOM
                     Add the bill of the materials you need for this project.
 
-                    |= ==
-                       | ID | Part name      | Part number | 1
+                       |= ==
+                       | ID | Part name      | Part number   | 1
                        | R1 | 10k Resistor   | 1234 - abcd   | 10
                        | L1 | Red LED        | 2345 - asdf   | 5
-                       | A1 | Arduino Zero   | ABX00066    | 1
+                       | A1 | Arduino Zero   | ABX00066      | 1
                        |= ==
 
 
